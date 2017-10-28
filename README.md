@@ -1,3 +1,2 @@
 # demo
-this is demo project
-created webpage nd css
+This is demo project for learning git
