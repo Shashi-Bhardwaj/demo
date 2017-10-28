@@ -2,7 +2,16 @@ body {
 	margin: 0;
 	padding: 0;
 }
-.shashi{color:purple; font-size:24px; text-align:center; text-shadow:1px 1px 6px red;}
+.shashi{color: purple;
+font-size: 37px;
+text-align: center;
+text-shadow: 1px 1px 6px red;
+text-transform: uppercase;
+box-shadow: -1px 1px 6px #7b7b7b;
+background: linear-gradient(to top, pink, #211c7780);
+width: 40%;
+margin: 0 auto;
+border-radius: 6px;}
 a {
 	outline: none;
 }
